@@ -30,7 +30,12 @@ img header {
 
 main {
 	font-size: 20px;
+	line-height: 30px;
 	margin: 50px;
+}
+
+p main{
+	width: 600px;
 }
 
 footer a:hover {
@@ -40,7 +45,7 @@ footer a:hover {
 
 footer {
 	background-color: lightskyblue;
-	padding: 50px;
+	padding: 30px;
 	margin: 0 auto;
 	text-align: center;
 
