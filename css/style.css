@@ -1,6 +1,6 @@
 body {
 	font-family: 'Raleway', sans-serif;
-	max-width: 800px;
+	max-width: 100%;
 }
 
 body a {
@@ -12,7 +12,6 @@ header {
 	text-align: center;
 	background-color: navy;
 	color: white;
-	max-width: 800px;
 	padding: 50px;
 
 
@@ -31,7 +30,7 @@ img header {
 
 main {
 	font-size: 20px;
-	margin: 0 auto;
+	margin: 50px;
 }
 
 footer a:hover {
@@ -40,6 +39,7 @@ footer a:hover {
 }
 
 footer {
+	background-color: lightskyblue;
 	padding: 50px;
 	margin: 0 auto;
 	text-align: center;
